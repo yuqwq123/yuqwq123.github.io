@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://yuqwq123.github.io</id>
     <title>一只好运の鱼</title>
-    <updated>2022-02-07T06:02:16.625Z</updated>
+    <updated>2022-02-07T06:03:37.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://yuqwq123.github.io"/>
+    <link rel="self" href="https://yuqwq123.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://yuqwq123.github.io/images/avatar.png</logo>
+    <icon>https://yuqwq123.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 一只好运の鱼</rights>
     <entry>
         <title type="html"><![CDATA[如何选择适合的公共 DNS？]]></title>
-        <id>http://localhost:4000/post/ru-he-xuan-ze-gua-he-de-gong-gong-dns/</id>
-        <link href="http://localhost:4000/post/ru-he-xuan-ze-gua-he-de-gong-gong-dns/">
+        <id>https://yuqwq123.github.io/post/ru-he-xuan-ze-gua-he-de-gong-gong-dns/</id>
+        <link href="https://yuqwq123.github.io/post/ru-he-xuan-ze-gua-he-de-gong-gong-dns/">
         </link>
         <updated>2022-02-07T06:00:57.000Z</updated>
         <content type="html"><![CDATA[<p>本文转自:https://blog.skk.moe/post/which-public-dns-to-use/<br>
-<img src="http://localhost:4000/post-images/1644213719546.webp" alt="" loading="lazy"></p>
+<img src="https://yuqwq123.github.io/post-images/1644213719546.webp" alt="" loading="lazy"></p>
 <p>DNS 是互联网的基石之一，之前我在博客的 DNS 标签下写了不少关于权威 DNS 的文章，这次写一篇关于递归 DNS（也就是公共 DNS）的文章，从公共 DNS 的必要性、利弊来讲一讲选择公共 DNS 需要关注的事情，以及列举一些当前主流的公共 DNS。</p>
 <p>是否需要公共 DNS<br>
 在选择公共 DNS 之前，你需要考虑一个问题：你是否真的需要公共 DNS 么？</p>
@@ -145,8 +145,8 @@ IPV6: 2a09:: 2a11::<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4000/post/hello-gridea/</id>
-        <link href="http://localhost:4000/post/hello-gridea/">
+        <id>https://yuqwq123.github.io/post/hello-gridea/</id>
+        <link href="https://yuqwq123.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
